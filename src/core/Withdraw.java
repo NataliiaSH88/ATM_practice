@@ -1,3 +1,5 @@
+package core;
+
 public class Withdraw {
     //how much
 
@@ -6,4 +8,6 @@ public class Withdraw {
     //money in slot
 
     //update later
+
+    //refactor
 }
